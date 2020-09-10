@@ -40,7 +40,7 @@ class Song
 
   def self.palphabetical
     @@all.sort_by{|x| x.name}
-  end 
+  end
 
 
 
